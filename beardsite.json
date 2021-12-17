@@ -15,7 +15,7 @@
         "networkInterfaces_frontendserver859_name": "frontendserver859",
         "publicIPAddresses_frontendSERVER_ip_name": "frontendSERVER-ip",
         "networkSecurityGroups_backendSERVER_nsg_name": "backendSERVER-nsg",
-        "networkSecurityGroups_frontendSERVER_nsg_name": "frontendSERVER-nsg",
+        "networkSecurityGroups_frontendSERVER_nsg_name": "frontendSERVER-nsg"
         }
     },
     "resources": [
